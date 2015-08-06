@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnterpriseFrameworkDestinationList>
+  <serviceDestination environment="DEV">http://www.google.com</serviceDestination>
+  <serviceDestination environment="QA">http://www.yahoo.com</serviceDestination>
+  <serviceDestination environment="PROD">http://www.amazon.com</serviceDestination>
+</EnterpriseFrameworkDestinationList>
